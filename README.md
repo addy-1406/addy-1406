@@ -4,13 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy-1406&label=Profile%20views&color=0e75b6&style=flat" alt="addy-1406" /> </p>
 
 - 🏛️ Pre-final yearite at IIT Guwahati, Computer Science and Engineering
-  
 - 🌱 I’m currently learning **Advanced C++**
-
-- 💬 Ask me about **Competitive programming, algorithms and data structures**
-
+- 💬 Ask me about **competitive programming and web developement**
 - 📫 Reach me at **adityamandal140603@gmail.com**
-
 - ⚡ Fun fact **I've recently learnt swimming xD**
 
 <h3 align="left">Connect with me:</h3>
