@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Competitive programming, algorithms and data structures**
 
-- 📫 How to reach me **adityamandal140603@gmail.co**
+- 📫 Reach me at **adityamandal140603@gmail.com**
 
 - ⚡ Fun fact **I've recently learnt swimming xD**
 
